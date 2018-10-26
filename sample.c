@@ -14,4 +14,6 @@ int n=11;
 printF("%d",&n);
 }
 PRINTf("AJAY");
-
+{
+gow
+}
